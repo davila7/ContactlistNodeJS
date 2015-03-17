@@ -1,0 +1,20 @@
+{ 
+	dependencies: 
+   { 'body-parser': 
+      { version: '1.12.1',
+        from: 'body-parser@',
+        resolved: 'https://registry.npmjs.org/body-parser/-/body-parser-1.12.1.tgz',
+        dependencies: [Object] },
+     express: 
+      { version: '4.12.2',
+        from: 'express@',
+        resolved: 'https://registry.npmjs.org/express/-/express-4.12.2.tgz',
+        dependencies: [Object] },
+     mongojs: 
+      { version: '0.18.2',
+        from: 'mongojs@',
+        resolved: 'https://registry.npmjs.org/mongojs/-/mongojs-0.18.2.tgz',
+        dependencies: [Object] 
+        } 
+    } 
+}
